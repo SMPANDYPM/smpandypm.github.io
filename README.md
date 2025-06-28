@@ -18,9 +18,9 @@ QQ等可以直接注册并登录
 **如果注册了，请保管好你的密码和邮箱，此评论系统的找回密码不可使用**
 
 # 关于网站
-此网盘是smiaty通过alist和内网穿透openfrp（https://www.openfrp.net/）来搭建的
+此网盘是smiaty通过alist和内网穿透openfrp（https://www.openfrp.net/ ）来搭建的
 
-此聊天区是通过https://waline.js.org/部署的
+此聊天区是通过https://waline.js.org/ 部署的
 
 此页面是通过Github建造的
 
